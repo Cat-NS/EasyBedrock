@@ -1,0 +1,2 @@
+# EasyBedrock
+.
