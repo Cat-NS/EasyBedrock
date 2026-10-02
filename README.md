@@ -1,4 +1,2 @@
-# EasyBedrock
-A launcher for minecraft bedrock.
-
-THIS APP CONTAINS AI CONTENT (mainappapi and uimodule)
+# EasyBedrock Files
+This is branch for launcher files like easybedrock.exe and other
